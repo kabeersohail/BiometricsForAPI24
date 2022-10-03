@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BiometricsForAPI24</string>
+    <string name="launch_screen">Launch screen</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="device_admin">Device Admin</string>
+    <string name="sample_device_admin_description">My description</string>
+</resources>
